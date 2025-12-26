@@ -25,6 +25,7 @@ export default function CartPage() {
 
   useEffect(() => {
     if (user?.userId) {
+      console.log("called");
       dispatch(fetchCartRequest(user.userId));
     }
   }, []);
