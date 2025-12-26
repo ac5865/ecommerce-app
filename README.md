@@ -4,14 +4,17 @@ A thrift shopping mobile app built with React Native (Expo), Redux Saga, and Nod
 
 ## 📸 Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./assets/Screenshot_1766762277.png" width="200" alt="Screenshot 1"/>
-  <img src="./assets/Screenshot_1766762300.png" width="200" alt="Screenshot 2"/>
-  <img src="./assets/Screenshot_1766763449.png" width="200" alt="Screenshot 3"/>
-  <img src="./assets/Screenshot_1766763467.png" width="200" alt="Screenshot 4"/>
-  <img src="./assets/Screenshot_1766763528.png" width="200" alt="Screenshot 5"/>
-  <img src="./assets/Screenshot_1766763579.png" width="200" alt="Screenshot 6"/>
-</div>
+<p align="center">
+  <img src="./assets/Screenshot_1766762277.png" width="250" alt="Screenshot 1"/>
+  <img src="./assets/Screenshot_1766762300.png" width="250" alt="Screenshot 2"/>
+  <img src="./assets/Screenshot_1766763449.png" width="250" alt="Screenshot 3"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Screenshot_1766763467.png" width="250" alt="Screenshot 4"/>
+  <img src="./assets/Screenshot_1766763528.png" width="250" alt="Screenshot 5"/>
+  <img src="./assets/Screenshot_1766763579.png" width="250" alt="Screenshot 6"/>
+</p>
 
 ## 🚀 Tech Stack
 
